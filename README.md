@@ -6,3 +6,4 @@
 
 01-random number in the given range
 02-reverse a string
+03-reverse a given integer number
